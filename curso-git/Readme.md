@@ -5,4 +5,6 @@
 ## Remotes
 
 ## Stashing
+
+## Merging
  
